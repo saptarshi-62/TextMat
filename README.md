@@ -68,3 +68,53 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# Project Details
+TextMat is a text manipulation platform built with React JS framework. As per coding JavaScript, HTML and a little bit of CSS is used in this project. The web app is capable of converting a text into whole uppercase, lowercase, pascalcase, remove extra spaces, copy text and remove text from the textbox. It also can extract text from an image, where the text can't be copied directly. There is also an option for enabling dark mode.
+
+### Homepage
+
+![image alt](https://github.com/saptarshi-62/TextMat/blob/67902ec34c88faba1c9c99cabd8b9ebfdf8bebbe/images/textmat1.png)
+![image alt](https://github.com/saptarshi-62/TextMat/blob/67902ec34c88faba1c9c99cabd8b9ebfdf8bebbe/images/textmat2.png)
+
+### Input Text
+
+![image alt](https://github.com/saptarshi-62/TextMat/blob/67902ec34c88faba1c9c99cabd8b9ebfdf8bebbe/images/textmat3.png)
+
+### Uppercase Conversion
+
+![image alt](https://github.com/saptarshi-62/TextMat/blob/67902ec34c88faba1c9c99cabd8b9ebfdf8bebbe/images/textmat4.png)
+
+### Lowercase Conversion
+
+![image alt](https://github.com/saptarshi-62/TextMat/blob/67902ec34c88faba1c9c99cabd8b9ebfdf8bebbe/images/textmat5.png)
+
+### Removing Extra Spaces
+
+![image alt](https://github.com/saptarshi-62/TextMat/blob/67902ec34c88faba1c9c99cabd8b9ebfdf8bebbe/images/textmat6.png)
+
+### Pascalcase Conversion
+
+![image alt](https://github.com/saptarshi-62/TextMat/blob/67902ec34c88faba1c9c99cabd8b9ebfdf8bebbe/images/textmat7.png)
+
+### Copying Text
+
+![image alt](https://github.com/saptarshi-62/TextMat/blob/67902ec34c88faba1c9c99cabd8b9ebfdf8bebbe/images/textmat8.png)
+![image alt](https://github.com/saptarshi-62/TextMat/blob/67902ec34c88faba1c9c99cabd8b9ebfdf8bebbe/images/textmat9.png)
+
+### Clear Text
+
+![image alt](https://github.com/saptarshi-62/TextMat/blob/67902ec34c88faba1c9c99cabd8b9ebfdf8bebbe/images/textmat10.png)
+
+### Dark Mode Interface
+
+![image alt](https://github.com/saptarshi-62/TextMat/blob/67902ec34c88faba1c9c99cabd8b9ebfdf8bebbe/images/textmat11.png)
+
+### Image Text Extraction
+
+![image alt](https://github.com/saptarshi-62/TextMat/blob/67902ec34c88faba1c9c99cabd8b9ebfdf8bebbe/images/textmat12.png)
+![image alt](https://github.com/saptarshi-62/TextMat/blob/67902ec34c88faba1c9c99cabd8b9ebfdf8bebbe/images/textmat13.png)
+![image alt](https://github.com/saptarshi-62/TextMat/blob/67902ec34c88faba1c9c99cabd8b9ebfdf8bebbe/images/textmat14.png)
+
+### About Page
+
+![image alt](https://github.com/saptarshi-62/TextMat/blob/67902ec34c88faba1c9c99cabd8b9ebfdf8bebbe/images/textmat15.png)
