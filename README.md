@@ -71,6 +71,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 # Project Details
 TextMat is a text manipulation platform built with React JS framework. As per coding JavaScript, HTML and a little bit of CSS is used in this project. The web app is capable of converting a text into whole uppercase, lowercase, pascalcase, remove extra spaces, copy text and remove text from the textbox. It also can extract text from an image, where the text can't be copied directly. There is also an option for enabling dark mode.
 
+## Web App Link
+
+Visit the site at [https://text-mat.vercel.app/](https://text-mat.vercel.app/)
+
 ### Homepage
 
 ![image alt](https://github.com/saptarshi-62/TextMat/blob/67902ec34c88faba1c9c99cabd8b9ebfdf8bebbe/images/textmat1.png)
